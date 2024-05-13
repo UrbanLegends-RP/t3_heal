@@ -1,6 +1,6 @@
 
 
-
+```
 --------------------------------------------------------------------------------------------------------------------
 
 ████████╗██████╗ ██████╗         ██╗  ██╗███████╗ █████╗ ██╗     
@@ -12,6 +12,7 @@
 
 
 ---------------------------------------------------------------------------------------------------------------------
+```
 
 # t3_heal - Hospital Revival Script for QBCore
 The `t3_heal` resource provides a script that allows players to revive at specific hospital locations in GTA V's FiveM roleplaying servers. Designed for QBCore frameworks, this resource enables multiple revival spots and integrates seamless cash transactions for the revival services.
