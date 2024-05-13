@@ -62,17 +62,6 @@ T3D
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-Support
-For support, please contact the repository owner or submit an issue on the project's issues page.
-
-
-
-### Additional Notes:
-- **Markdown Format**: This README is written in Markdown format which is standard for GitHub and many other version control platforms.
-- **Customization**: Feel free to adjust the paths, feature list, and installation steps based on your actual project setup and directory structure.
-- **License**: I've included a generic placeholder for a license. Ensure you replace `[LICENSE.md](LICENSE.md)` with the actual license file if different or specify the correct licensing details.
-
-Save this file as `README.md` in the root directory of the `t3_heal` resource to provide clear documentation for users of your script.
 
 ```lua
 
