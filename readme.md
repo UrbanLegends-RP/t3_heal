@@ -74,7 +74,8 @@ For support, please contact the repository owner or submit an issue on the proje
 
 Save this file as `README.md` in the root directory of the `t3_heal` resource to provide clear documentation for users of your script.
 
-```
+```lua
+
 ---------------------------------------------------------------------------------------------------------------------
 
 ████████╗██████╗ ██████╗     ███████╗ ██████╗██████╗ ██╗██████╗ ████████╗███████╗
@@ -85,4 +86,5 @@ Save this file as `README.md` in the root directory of the `t3_heal` resource to
    ╚═╝   ╚═════╝ ╚═════╝     ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝        ╚═╝   ╚══════╝
                                                                                  
 ---------------------------------------------------------------------------------------------------------------------
-```
+
+```lua
